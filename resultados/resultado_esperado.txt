@@ -1,0 +1,22 @@
+==================================================
+        REPORTE DE VENTAS SEMANAL (QA)
+==================================================
+Fecha de generación: 25/05/2026
+Origen de datos: datos/datos_analisis.csv
+Análisis correspondiente a: Célula de Trabajo UTN
+
+--------------------------------------------------
+METRICAS PRINCIPALES:
+--------------------------------------------------
+1. Total de dinero ingresado:
+   $ 1,832,000.00
+
+2. Total de unidades vendidas:
+   53 unidades
+
+3. Producto más vendido de la semana:
+   "Mouse Inalámbrico" (10 unidades vendidas)
+
+--------------------------------------------------
+Estado de verificación: OK (Validado por Luis QA)
+==================================================
